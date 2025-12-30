@@ -1,4 +1,7 @@
 ## Hi 👋 I'm Pujasmruti Satapathy
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
+</p>
 
 🎓 MCA Student at GIFT Autonomous  
 💻 Python Full Stack Developer (Learner)  
