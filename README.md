@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋 I'm Pujasmruti Satapathy
 
-<!--
-**code-with-puja/code-with-puja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at GIFT Autonomous  
+💻 Python Full Stack Developer (Learner)  
+🎯 Dream: Become a Software Engineer  
+🎵 Hobby: Singing  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python
+- Django
+- HTML, CSS, JavaScript
+- C
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🔐 Security Alarm System using ESP32  
+- 🌐 Personal Portfolio Website  
+
+### 📫 Connect with Me
+- LinkedIn: (add your link)
+- GitHub: https://github.com/code-with-puja
+
