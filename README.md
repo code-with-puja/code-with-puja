@@ -1,55 +1,122 @@
-<div style="
-background:#ffffff;
-padding:35px;
-border-radius:18px;
-border:2px solid #3b82f6;
-color:#111827;
-font-family:Arial, sans-serif;
-box-shadow:0 0 10px rgba(59,130,246,0.6);
-animation: glow 2.5s infinite alternate;
-">
-
-<h1 align="center">Hi 👋, I'm Pujasmruti Satapathy</h1>
+# 👋 Hi, I'm Pujasmruti Satapathy
 
 <p align="center">
 🎓 MCA Student | 🐍 Python & AI Enthusiast <br>
 🚀 Aspiring Full-Stack Developer
 </p>
 
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
+---
 
-<h2>👩‍💻 About Me</h2>
+## 🌟 About Me
 
-<ul style="line-height:1.8; color:#374151;">
-  <li>🎓 MCA Student</li>
-  <li>🌱 Learning Python, Django, ML & AI</li>
-  <li>💡 Interested in Web Development & Data</li>
-  <li>🔭 Building real-world projects</li>
-  <li>📫 Reach me at: <b>satapathypujasmruti@gmail.com</b></li>
-</ul>
+I am a passionate **Master of Computer Applications (MCA)** student with a strong interest in **software development, web technologies, and artificial intelligence**.  
+Coming from a middle-class family with a farming background, I strongly believe in **hard work, consistency, and continuous learning**.
 
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
+I enjoy building real-world applications, learning new technologies, and improving my problem-solving skills. My long-term goal is to become a **skilled Software Engineer** and contribute to impactful projects.
 
-<h2>🛠️ Technologies & Tools</h2>
+---
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-</p>
+## 🎓 Education
 
-<hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
+- **Master of Computer Applications (MCA)**  
+  📍 Gandhi Institute for Technology (GIFT Autonomous)  
+  📅 2024 – 2026  
 
-<h2>🔗 Connect With Me</h2>
+- **Bachelor of Computer Applications (BCA)**  
+  📍 Rajdhani College of Science, Technology & Management  
+  📅 Graduated: 2024  
 
-<ul style="line-height:1.8;">
-  <li>🌐 Portfolio: <a href="https://code-with-puja.github.io/my-portfolio/">View Website</a></li>
-  <li>🧑‍💻 GitHub: <a href="https://github.com/code-with-puja">code-with-puja</a></li>
-</ul>
+- **Higher Secondary (12th)**  
+  📍 Utkal University – 2021  
 
-</div>
+- **Secondary (10th)**  
+  📍 Saraswati Vidya Mandir, Paradeep – 2019  
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+- Python  
+- C  
+- JavaScript  
+
+### 🌐 Web Development
+- HTML5  
+- CSS3  
+- JavaScript  
+- Django  
+
+### 📊 Data & AI (Learning)
+- Machine Learning basics  
+- Artificial Intelligence concepts  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Power BI (Basics)  
+- Linux (Basic)
+
+---
+
+## 🚀 Projects
+
+### 🔐 Security Alarm System (ESP32)
+- Designed a real-time **security alarm system** using ESP32  
+- Integrated sensors for intrusion detection  
+- Focused on reliability and real-world usage  
+
+### 🌐 Portfolio Website
+- Personal portfolio built using **HTML, CSS & JavaScript**  
+- Responsive and modern UI  
+- Showcases skills, education, and projects  
+
+### 🧪 Academic & Practice Projects
+- Python mini projects  
+- Django CRUD applications  
+- Frontend UI practice projects  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python  
+- Django REST Framework  
+- Machine Learning fundamentals  
+- Data analysis concepts  
+- Clean code & best practices  
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🥈 **2nd Prize in Singing Competition**  
+- 🎤 Singing is my hobby and creative outlet  
+- 📚 Actively improving coding & problem-solving skills  
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a **competent Software Engineer** who builds scalable, secure, and user-friendly applications.  
+I aim to continuously grow my technical skills and contribute to meaningful projects in the tech industry.
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 **Portfolio:** https://code-with-puja.github.io  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/pujasmruti-satapathy  
+- 🧑‍💻 **GitHub:** https://github.com/code-with-puja  
+- 📧 **Email:** satapathypujasmruti@gmail.com  
+
+---
+
+## 💙 Thank You for Visiting!
+
+⭐ If you like my profile, feel free to **follow me on GitHub**  
+🤝 I’m always open to learning, collaboration, and opportunities  
+
 
 
 
