@@ -55,7 +55,6 @@ To become a **competent Software Engineer**, building scalable, secure, and user
 <a href="https://code-with-puja.github.io/my-portfolio/">🌐 Portfolio</a> | 
 <a href="https://www.linkedin.com/in/pujasmruti-satapathy-27ba96394">💼 LinkedIn</a> | 
 <a href="https://github.com/code-with-puja">🧑‍💻 GitHub</a> | 
-📧 satapathypujasmruti@gmail.com
 </p>
 
 ---
