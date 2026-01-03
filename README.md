@@ -1,53 +1,30 @@
-<table>
-<tr>
-<td width="60%">
+# Hi 👋, I'm Pujasmruti Satapathy  
 
-<div style="
-background:#0d1117;
-padding:20px;
-border-radius:15px;
-box-shadow:0 0 15px #00f7ff, 0 0 30px #00f7ff;
-">
+🎓 MCA Student | 💻 Python & AI Enthusiast  
+🚀 Aspiring Full-Stack Developer  
 
-<h2>Hi 👋 I'm Pujasmruti Satapathy</h2>
+---
 
-🎓 MCA Student at GIFT Autonomous  
-🐍 Python Full Stack Developer (Learner)  
-🎯 Dream: Software Engineer  
-🎵 Hobby: Singing  
+## 👩‍💻 About Me
+- 🎓 MCA Student
+- 🌱 Learning Python, Django, ML & AI
+- 💡 Interested in Web Development & Data
+- 🔭 Building real-world projects
+- 📫 Reach me at: **satapathypujasmruti@gmail.com**
 
-<h3>🛠 Skills</h3>
+---
 
-- Python  
-- Django  
-- HTML, CSS, JavaScript  
-- C  
-- Git & GitHub  
+## 🛠️ Technologies & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-</div>
+---
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-style="
-border-radius:15px;
-box-shadow:0 0 20px #ff00ff, 0 0 40px #ff00ff;
-"
-width="280"/>
-
-</td>
-</tr>
-</table>
-
-
-
-### 📌 Projects
-- 🔐 Security Alarm System using ESP32  
-- 🌐 Personal Portfolio Website  
-
-### 📫 Connect with Me
-- LinkedIn: (add your link)
-- GitHub: https://github.com/code-with-puja
+## 🔗 Connect With Me
+- 🌐 Portfolio: https://routraysipra123.github.io/portfolio-sipra/
+- 💼 LinkedIn:https://www.linkedin.com/in/sipra-routray-85426b35b
+- 🧑‍💻 GitHub: https://github.com/routraysipra123
 
