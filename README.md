@@ -1,8 +1,19 @@
+<div style="
+background:#ffffff;
+padding:35px;
+border-radius:18px;
+border:2px solid #3b82f6;
+color:#111827;
+font-family:Arial, sans-serif;
+box-shadow:0 0 10px rgba(59,130,246,0.6);
+animation: glow 2.5s infinite alternate;
+">
+
+<h1 align="center">Hi 👋, I'm Pujasmruti Satapathy</h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="300"
-       style="border-radius:12px;"
-       alt="Coder Illustration"/>
+🎓 MCA Student | 🐍 Python & AI Enthusiast <br>
+🚀 Aspiring Full-Stack Developer
 </p>
 
 <hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
@@ -40,18 +51,7 @@
 
 </div>
 
-<style>
-@keyframes glow {
-  from {
-    box-shadow: 0 0 10px rgba(59,130,246,0.5),
-                0 0 20px rgba(59,130,246,0.3);
-  }
-  to {
-    box-shadow: 0 0 20px rgba(59,130,246,0.9),
-                0 0 45px rgba(59,130,246,0.6);
-  }
-}
-</style>
+
 
 
 
