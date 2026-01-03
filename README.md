@@ -1,19 +1,3 @@
-<div style="
-background:#ffffff;
-padding:32px;
-border-radius:14px;
-border:1px solid #e5e7eb;
-color:#111827;
-font-family:Arial, sans-serif;
-">
-
-<h1 align="center">Hi 👋, I'm Pujasmruti Satapathy</h1>
-
-<p align="center" style="color:#374151; font-size:16px;">
-🎓 MCA Student | 💻 Python & AI Enthusiast <br>
-🚀 Aspiring Full-Stack Developer
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        width="300"
@@ -56,6 +40,18 @@ font-family:Arial, sans-serif;
 
 </div>
 
+<style>
+@keyframes glow {
+  from {
+    box-shadow: 0 0 10px rgba(59,130,246,0.5),
+                0 0 20px rgba(59,130,246,0.3);
+  }
+  to {
+    box-shadow: 0 0 20px rgba(59,130,246,0.9),
+                0 0 45px rgba(59,130,246,0.6);
+  }
+}
+</style>
 
 
 
