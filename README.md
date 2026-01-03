@@ -17,7 +17,7 @@ color:#e6edf3;
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        width="320"
        style="border-radius:15px;
-              box-shadow:0 0 15px #ff4ecd, 0 0 30px #ff4ecd;"
+              box-shadow:0 0 20px #00e5ff, 0 0 45px #00e5ff;"
        alt="Coder GIF"/>
 </p>
 
