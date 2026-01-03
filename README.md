@@ -1,31 +1,31 @@
 <div style="
-background:#0d1117;
-padding:30px;
-border-radius:20px;
-box-shadow:0 0 20px #00e5ff, 0 0 45px #00e5ff;
-color:#e6edf3;
+background:#ffffff;
+padding:32px;
+border-radius:14px;
+border:1px solid #e5e7eb;
+color:#111827;
+font-family:Arial, sans-serif;
 ">
 
 <h1 align="center">Hi 👋, I'm Pujasmruti Satapathy</h1>
 
-<p align="center">
+<p align="center" style="color:#374151; font-size:16px;">
 🎓 MCA Student | 💻 Python & AI Enthusiast <br>
 🚀 Aspiring Full-Stack Developer
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="320"
-       style="border-radius:15px;
-              box-shadow:0 0 20px #00e5ff, 0 0 45px #00e5ff;"
-       alt="Coder GIF"/>
+       width="300"
+       style="border-radius:12px;"
+       alt="Coder Illustration"/>
 </p>
 
-<hr>
+<hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
 
 <h2>👩‍💻 About Me</h2>
 
-<ul>
+<ul style="line-height:1.8; color:#374151;">
   <li>🎓 MCA Student</li>
   <li>🌱 Learning Python, Django, ML & AI</li>
   <li>💡 Interested in Web Development & Data</li>
@@ -33,28 +33,29 @@ color:#e6edf3;
   <li>📫 Reach me at: <b>satapathypujasmruti@gmail.com</b></li>
 </ul>
 
-<hr>
+<hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
 
 <h2>🛠️ Technologies & Tools</h2>
 
 <p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
 </p>
 
-<hr>
+<hr style="border:0; border-top:1px solid #e5e7eb; margin:30px 0;">
 
 <h2>🔗 Connect With Me</h2>
 
-<ul>
-  <li>🌐 Portfolio: <a href="https://code-with-puja.github.io/my-portfolio/">View</a></li>
+<ul style="line-height:1.8;">
+  <li>🌐 Portfolio: <a href="https://code-with-puja.github.io/my-portfolio/">View Website</a></li>
   <li>🧑‍💻 GitHub: <a href="https://github.com/code-with-puja">code-with-puja</a></li>
 </ul>
 
 </div>
+
 
 
 
