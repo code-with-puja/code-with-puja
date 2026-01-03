@@ -24,7 +24,8 @@
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: https://routraysipra123.github.io/portfolio-sipra/
-- 💼 LinkedIn:https://www.linkedin.com/in/sipra-routray-85426b35b
-- 🧑‍💻 GitHub: https://github.com/routraysipra123
+- 🌐 Portfolio: https://code-with-puja.github.io/my-portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/pujasmruti-satapathy-27ba96394
+- 🧑‍💻 GitHub: https://github.com/code-with-puja
+
 
