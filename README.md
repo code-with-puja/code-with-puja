@@ -8,7 +8,7 @@
 ## 🌟 About Me
 
 I am a passionate **Master of Computer Applications (MCA)** student with a strong interest in **software development and problem-solving**.  
-Coming from a middle-class family with a farming background, I am highly motivated to build a successful career in the tech industry through continuous learning and hard work.
+I am highly motivated to build a successful career in the tech industry through continuous learning and hard work.
 
 ---
 
@@ -50,5 +50,5 @@ To become a **skilled Software Engineer** and contribute to real-world projects 
 - **Portfolio:** https://code-with-puja.github.io/my-portfolio/
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
+⭐ **Thank you for visiting my GitHub profile!**
 
