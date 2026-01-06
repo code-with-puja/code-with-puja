@@ -48,9 +48,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-puja&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-puja&show_icons=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-puja&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-puja&layout=compact&cache_seconds=86400)
+
 
 
 ---
