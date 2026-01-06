@@ -45,9 +45,9 @@ To become a **skilled Software Engineer** and contribute to real-world projects 
 
 ## 📫 Connect With Me
 
-- **GitHub:** https://github.com/your-username  
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-
+- **GitHub:** https://github.com/code-with-puja  
+- **LinkedIn:** https://www.linkedin.com/in/pujasmruti-satapathy-27ba96394  
+- **Portfolio:** https://code-with-puja.github.io/my-portfolio/
 ---
 
 ⭐ *Thank you for visiting my GitHub profile!*
