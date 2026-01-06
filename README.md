@@ -50,7 +50,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=code-with-puja&show_icons=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=code-with-puja&show_icons=true"
     alt="GitHub Stats"
   />
 </p>
@@ -61,6 +61,7 @@
     alt="Top Languages"
   />
 </p>
+
 
 
 
