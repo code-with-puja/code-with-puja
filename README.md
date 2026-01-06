@@ -61,9 +61,10 @@
   <a href="https://github.com/code-with-puja">
     <img src="https://img.shields.io/badge/GitHub-code--with--puja-181717?style=flat&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/pujasmruti-satapathy-27ba96394">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=flat&logo=linkedin">
-  </a>
+<a href="https://www.linkedin.com/in/pujasmruti-satapathy-27ba96394" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Pujasmruti%20Satapathy-0A66C2?style=flat&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
 ---
