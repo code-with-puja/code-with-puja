@@ -14,7 +14,7 @@ I am highly motivated to build a successful career in the tech industry through 
 
 ## 💻 Skills
 
-- **Programming:** Python, Java (Basics)
+- **Programming:** Python, C, JAVA(Basic)
 - **Web:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code
 - **Database:** MySQL (Basics)
