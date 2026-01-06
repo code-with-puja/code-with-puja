@@ -24,8 +24,8 @@ I am highly motivated to build a successful career in the tech industry through 
 ## 📌 Projects
 
 - 🔹 **Portfolio Website** – Personal responsive portfolio using HTML, CSS & JavaScript  
-- 🔹 **Python Mini Projects** – Practice-based projects for logic building  
-- 🔹 **Academic Projects** – MCA lab and coursework projects  
+- 🔹 **Python Mini Projects** – Shoe&Shop platform  
+- 🔹 **Academic Projects** – IoT Based Security Alaram System  
 
 ---
 
