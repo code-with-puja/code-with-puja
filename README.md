@@ -61,7 +61,7 @@
   <a href="https://github.com/code-with-puja">
     <img src="https://img.shields.io/badge/GitHub-code--with--puja-181717?style=flat&logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/pujasmruti-satapathy-27ba96394">
     <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=flat&logo=linkedin">
   </a>
 </p>
