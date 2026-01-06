@@ -49,9 +49,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-puja&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-puja&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=code-with-puja&show_icons=true&theme=default&hide_border=true" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-puja&layout=compact&theme=default&hide_border=true" 
+    height="160"
+  />
 </p>
+
 
 ---
 
