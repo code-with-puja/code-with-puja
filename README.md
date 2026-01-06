@@ -61,7 +61,7 @@
 ---
 
 <p align="center">
-  💙 <i>“Code. Learn. Improve. Repeat.”</i>
+  💙 <i>“**Code. Learn. Improve. Repeat.**”</i>
 </p>
 
 
