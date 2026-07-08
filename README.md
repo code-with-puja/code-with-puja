@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Pujasmruti Satapathy</h1>
-<h3 align="center">MCA Student | Python Developer | Aspiring Software Engineer</h3>
+<h3 align="center">MCA Graduate | Python & MERN Stack Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=550&lines=Passionate+Python+Developer;Future+Software+Engineer;Lifelong+Learner+in+Tech" alt="Typing SVG" />
