@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I am a **Master of Computer Applications (MCA)** student with a strong passion for **software development and problem-solving**.  
+🎓 I recently completed my **Master of Computer Applications (MCA)** with a strong foundation in **software development and problem-solving**.  
 🚀 I enjoy building projects, learning new technologies, and improving my coding skills every day.  
 🌱 My goal is to become a **skilled Software Engineer** and contribute to impactful real-world applications.
 
